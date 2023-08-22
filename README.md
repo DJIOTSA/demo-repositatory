@@ -1,2 +1,2 @@
 # demo-repositatory
-introduction to Git &amp; GitHub
+introduction to Git &amp; GitHub!
